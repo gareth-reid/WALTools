@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WALTools</id>
+    <version>$version$</version>
+    <title>WALTools</title>
+    <authors>Gareth Reid</authors>
+    <owners>Gareth Reid</owners>  
+    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library of tools. Extensions, helpers etc.</description>
+    <releaseNotes>
+       -Extensions and Helpers
+    </releaseNotes>
+    <copyright></copyright>
+    <tags>tools helper extension</tags>
+    <dependencies>     
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System"   />     
+      <frameworkAssembly assemblyName="System.Core"   />
+      <frameworkAssembly assemblyName="System.Web"   />
+      <frameworkAssembly assemblyName="System.Web.Mvc"   />    
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="WALTools/bin/debug/WALTools.dll" target="lib" /> 
+  </files>
+</package>

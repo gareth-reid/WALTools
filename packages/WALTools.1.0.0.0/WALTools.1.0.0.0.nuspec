@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WALTools</id>
+    <version>1.0.0.0</version>
+    <title>WALTools</title>
+    <authors>WAL</authors>
+    <owners>WAL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Description</description>
+    <dependencies>
+      <dependency id="Nuget.Core" version="2.2.0" />
+    </dependencies>
+  </metadata>
+</package>
